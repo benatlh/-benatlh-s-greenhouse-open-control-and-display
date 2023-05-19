@@ -1,5 +1,6 @@
-![lux-temp](https://github.com/benatlh/-benatlh-s-greenhouse-open-control-and-display/assets/37818231/86712428-2821-493a-9c90-284925fb3333)
 ![Final interface white](https://github.com/benatlh/-benatlh-s-greenhouse-open-control-and-display/assets/37818231/77c905b1-291b-48d8-b730-f3a5a8982711)
+![lux-temp](https://github.com/benatlh/-benatlh-s-greenhouse-open-control-and-display/assets/37818231/25210572-3caf-4a8a-9c6d-66e625314cc8)
+
 
 # -benatlh-s-greenhouse-open-control-and-display
 The purpose of the programm is to control greenhouse with raspberry pi pico w + dataloggin. The way to archieve it in the most energy efficient and affordable possible. The purpose of the greenhouse is to make vegetables and to warm the house during the intermediate seasons cause it is a lean to type greenhouse. The greenhouse is equiped with:
