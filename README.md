@@ -3,7 +3,7 @@
 
 
 # Greenhouse Open Control And Display
-The purpose of the programm is to control greenhouse with raspberry pi pico w + dataloggin. The way to archieve it in the most energy efficient and affordable possible. The purpose of the greenhouse is to make vegetables and to warm the house during the intermediate seasons cause it is a lean to type greenhouse. The greenhouse is equiped with:
+The purpose of the programm is to control greenhouse with raspberry pi pico w + dataloggin. The way to archieve it in the most energy efficient and affordable possible. The purpose of the greenhouse is to make vegetables and to warm the house during the intermediate seasons cause it is a lean type greenhouse. The greenhouse is equiped with:
 
 - roof windows
 - retractable awning
