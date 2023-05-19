@@ -66,3 +66,4 @@ L'interface a été réfléchie pour disposer au mieux des informations tout en 
 -  régle un temps pour les max et les met dans des variables
 -  définition de messages importants
 -  définir des plages et emplacements pour afficher les variables et les raccourcir avec un . si ca ne rentre pas.
+- la petite bulle des controles se met sur la touche sélectionnée
