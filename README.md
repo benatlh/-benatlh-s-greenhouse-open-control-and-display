@@ -1,3 +1,5 @@
+![Final interface white](https://github.com/benatlh/-benatlh-s-greenhouse-open-control-and-display/assets/37818231/77c905b1-291b-48d8-b730-f3a5a8982711)
+
 # -benatlh-s-greenhouse-open-control-and-display
 The purpose of the programm is to control greenhouse with raspberry pi pico w. The way to archieve it in the most energy efficient and affordable possible.
 
