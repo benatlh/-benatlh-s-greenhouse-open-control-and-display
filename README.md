@@ -49,4 +49,16 @@ L'interface a été réfléchie pour disposer au mieux des informations tout en 
 
 - création de feuilles personalisées
 - traductions
-- 
+- led si programme tourne
+- message d'erreur pour routines et inscription log
+- mode manuel ou auto et affichage
+- récupère la date et l'heure par config ou réseau
+- stock les données dans un format approprié
+- création de feuilles selon les capteurs opérationnels
+-  définition de valeurs limites pour les capteurs opérationnels
+-  affiche les messages des valeurs limites dans la zone rouge
+-  affichage de 3 lignes complètes avec changement de couleur si limite et 1 valeur courte et etat reseau (off - wifi ap infra)
+-  veleur de stepp pour les controls + ou -
+-  menu i/O menu alarmes menu config
+-  calcul des echelles et affichage des valeurs cibles et des données selon voie une noir et voie 2 rouge avec adaptation dans le titre
+-  affichage de la version du firmware
