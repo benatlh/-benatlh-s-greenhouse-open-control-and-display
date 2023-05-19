@@ -2,7 +2,7 @@
 ![lux-temp](https://github.com/benatlh/-benatlh-s-greenhouse-open-control-and-display/assets/37818231/25210572-3caf-4a8a-9c6d-66e625314cc8)
 
 
-# -benatlh-s-greenhouse-open-control-and-display
+# -Benatlh-s-Greenhouse-Open-Control-And-Display
 The purpose of the programm is to control greenhouse with raspberry pi pico w + dataloggin. The way to archieve it in the most energy efficient and affordable possible. The purpose of the greenhouse is to make vegetables and to warm the house during the intermediate seasons cause it is a lean to type greenhouse. The greenhouse is equiped with:
 
 - roof windows
@@ -62,3 +62,7 @@ L'interface a été réfléchie pour disposer au mieux des informations tout en 
 -  menu i/O menu alarmes menu config
 -  calcul des echelles et affichage des valeurs cibles et des données selon voie une noir et voie 2 rouge avec adaptation dans le titre
 -  affichage de la version du firmware
+-  un refresh rate de 6 min parait bien mais devrai être ajustable en 3" 6" 1' 3' 6' 1h
+-  régle un temps pour les max et les met dans des variables
+-  définition de messages importants
+-  définir des plages et emplacements pour afficher les variables et les raccourcir avec un . si ca ne rentre pas.
