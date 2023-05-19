@@ -9,7 +9,7 @@ The purpose of the programm is to control greenhouse with raspberry pi pico w + 
 - retractable awning
 - 2 sides manual doors
 - 2 manual ventilation grid
-- 2 concrete tanks
+- 2 concrete tanks to delay the temperature + manure in early season
 - 1 pump
 - 1 lighting sensor i2c (bh1750 ? it should support the direct sunlight)
 - 1 fan to supply hot air to the house powered by relay
@@ -68,3 +68,4 @@ L'interface a été réfléchie pour disposer au mieux des informations tout en 
 -  définir des plages et emplacements pour afficher les variables et les raccourcir avec un . si ca ne rentre pas.
 - la petite bulle des controles se met sur la touche sélectionnée
 - control au fifi création de boutons sur les noms des controles
+-  crée des compteurs de jours sans gelées ou de canicules par exemple
