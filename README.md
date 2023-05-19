@@ -1,7 +1,7 @@
 ![Final interface white](https://github.com/benatlh/-benatlh-s-greenhouse-open-control-and-display/assets/37818231/77c905b1-291b-48d8-b730-f3a5a8982711)
 
 # -benatlh-s-greenhouse-open-control-and-display
-The purpose of the programm is to control greenhouse with raspberry pi pico w. The way to archieve it in the most energy efficient and affordable possible. The purpose of the greenhouse is to make vegetables and to warm the house during the intermediate seasons cause it is a lean to type greenhouse. The greenhouse is equiped with:
+The purpose of the programm is to control greenhouse with raspberry pi pico w + dataloggin. The way to archieve it in the most energy efficient and affordable possible. The purpose of the greenhouse is to make vegetables and to warm the house during the intermediate seasons cause it is a lean to type greenhouse. The greenhouse is equiped with:
 
 - roof windows
 - retractable awning
@@ -15,11 +15,13 @@ The purpose of the programm is to control greenhouse with raspberry pi pico w. T
 - 1 soil moisture sensor (type Grove 101020008)
 - e-motor for awning powered by relay
 - e-motor for root top window powered by relay
-- motorized damper RMVT160 / 1223  fan PF 32.000 11632853055 not decided yet witch NRV type BDD100 + carcoal filter + plug for winter + 
+- motorized damper RMVT160 / 1223  fan PF 32.000 11632853055 not decided yet witch NRV type BDD100 + carcoal filter + plug for winter / or high and low openings for natural flow.
 - return from kitchen hood and controlled mechanical ventilation into greenhouse
 - atmospheric sensor (BMP280)
 - matrix keypad with PCF8574T module.
 - e-paper screen display waveshare 2.9inch e-paper module 296-128 px V3
+- solar pannel 12v for e-motors, pump + solar pannel 5v for the mico + small batt for datalogging only
+- rain sensor  
 
 -> first of all we have to make them interract with raspberry. We have to get and check the material is ok.
 
