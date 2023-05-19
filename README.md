@@ -1,3 +1,4 @@
+![lux-temp](https://github.com/benatlh/-benatlh-s-greenhouse-open-control-and-display/assets/37818231/86712428-2821-493a-9c90-284925fb3333)
 ![Final interface white](https://github.com/benatlh/-benatlh-s-greenhouse-open-control-and-display/assets/37818231/77c905b1-291b-48d8-b730-f3a5a8982711)
 
 # -benatlh-s-greenhouse-open-control-and-display
