@@ -46,3 +46,7 @@ Intersaison : varie selon température et hygronomie : grilles de ventilation ou
 
 
 L'interface a été réfléchie pour disposer au mieux des informations tout en laissant de la lisibilité et un peu d'évolutivité. Il ne devrai pas y avoir trop de modif à faire d'ici la fin. On devrai pouvoir y configurer des vues.
+
+- création de feuilles personalisées
+- traductions
+- 
