@@ -25,7 +25,7 @@ The purpose of the programm is to control greenhouse with raspberry pi pico w + 
 - solar pannel 12v for e-motors, pump + solar pannel 5v for the mico + small batt for datalogging only
 - rain sensor  
 
--> first of all we have to make them interract with raspberry. We have to get and check the material is ok.
+-> first of all we have to make them interract with raspberry. We have to get and check the material is ok. not easy part
 
 Then the coding:
 
