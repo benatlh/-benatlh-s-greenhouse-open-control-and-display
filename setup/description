@@ -1,0 +1,12 @@
+Sans fichier setup/config.ini le premier démarage doit configurer le system. Il se fera via le réseau.
+1-le réseau
+  démarage en AP, puis config, puis run. ! si pas de réseau message d'information pour la remise à séro
+2- aquisition de la date et l'heure
+3-les entrées
+  -le clavier
+  -les sondes;branchement; caractéristiques; brochage; nom complet; nom raccourci; plage de fonctionnement; alarme mini; alarme maxi
+4-les sorties
+  - 
+- les vues:
+  - 
+6-le temps de refraichissement optimal en fonction du bandwitch des capteurs/afficheur
