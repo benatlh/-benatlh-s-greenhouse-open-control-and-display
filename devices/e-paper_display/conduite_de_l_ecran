@@ -1,0 +1,25 @@
+# à priori les écrans doivent être resettés pour que les couleurs ne se dénaturent pas et le partial refresh ne devrait pas être utilisé plusieurs fois car il y a un risque de casse
+
+# une image 3 couleurs est en fait la superposition de deux images:
+   - la première qui est noire et blanc avec les pixels noirs sont des bits à 0 et blanc à 1.
+   - le deusième qui est rouge et blanche avecles pixels rouges qui se trouvent être à la position d'un blanc de la première image ? et qui sont des bits à 0 et les blancs toujours à 1
+voir https://www.waveshare.com/wiki/2.9inch_e-Paper_Module_(B)_Manual#Resources pour les shémas.
+
+a priori l'écran ne doit pas être alimenté longentemps sans rafraichissement, il faut l'éteindre ou le mettre en sleep mode car il y a un risque de casse.
+le taux de rafraichissement doit être d'au moins 180' et doit être rafraichit avant d'être éteint. il faut pouvoir l'éteindre correctement de l'interface + étiquette si déinstallé.
+en sleep mode il ignore les données, il lui faut une initialisation normale pour qu'il affiche de nouveau les données
+le module à l'arrière de mon écran réduit la tension de 5 à 3.3v, celle qu'il a besoin, il supporte le 3.3V d'alim donc
+le module de configuration semble avoir été réalisé pour un BCM2835  (raspberry pi). par comparaison et analyse du pilote de mon écran on devrai pouvoir en déduire les points de connections.
+en regardant dans la notice du microcontroleur (https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf) on trouve p
+
+Raspberry Pi Pinout e-Paper 	Raspberry Pi
+                     BCM2835 	Board
+VCC 	3.3V 	3.3V
+GND 	GND 	GND
+DIN 	MOSI 	19
+CLK 	SCLK 	23
+CS 	CE0 	24
+DC 	25 	22
+RST 	17 	11
+BUSY 	24 	18
+
