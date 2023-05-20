@@ -15,4 +15,5 @@ si fichier de configuration absent alors:
     Enable display ?
     Enable stepper/dricers/relays
 
-generate configuration file:
+  generate configuration file:
+  sinon skip
