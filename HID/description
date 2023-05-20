@@ -1,0 +1,3 @@
+l'interface doit pouvoir afficher et controler ceci:
+-un bouton de control auto manu -> qui control les outputs automatiquement ou les interrmop en manu pour une commande depuis l'HID donc on a la variable booléenne ModeAuto qui en True est en auto et en Fals en manu
+-le nom de la vue qui est générée automatiquement en fonction des valeurs sélectionnées dans le setup.
