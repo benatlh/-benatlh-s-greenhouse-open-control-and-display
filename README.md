@@ -27,7 +27,7 @@ The purpose of the programm is to control greenhouse with raspberry pi pico w + 
 
 -> first of all we have to make them interract with raspberry. We have to get and check the material is ok. not easy part
 
-Then the coding:
+Then the coding in micropython mostly:
 
 Le programme a plusieurs configurations de fonctionnement:
 - headless + wifi ap: on tout faire de la sauf l'envoi au cloud directe (qui n'est pas nécessaire à mon gout) + display e-paper 2 couleurs optionnel
