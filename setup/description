@@ -1,12 +1,25 @@
 Sans fichier setup/config.ini le premier démarage doit configurer le system. Il se fera via le réseau.
 1-le réseau
-  démarage en AP, puis config, puis run. ! si pas de réseau message d'information pour la remise à séro
+  -démarage en AP, puis config, puis run. ! si pas de réseau message d'information pour la remise à séro
+  -config service reporting mail sms (d'alerte gel temp haute) ftp sauvegarde AI bigdata
 2- aquisition de la date et l'heure
-3-les entrées
+3-les entrées utilisation d'un dictionnaire des capteurs
   -le clavier
-  -les sondes;branchement; caractéristiques; brochage; nom complet; nom raccourci; plage de fonctionnement; alarme mini; alarme maxi
-4-les sorties
-  - 
+  -les sondes;branchement; caractéristiques; brochage; nom complet; nom raccourci; plage de fonctionnement;temps scrudation mini maxi; alarme mini; alarme maxi
+4-les sorties utilisation d'un dictionnaire des capteurs
+  - -les actionneurs;branchement; caractéristiques; brochage; nom complet; nom raccourci; temps de step; compteur mini; compteur maxi
 - les vues:
-  - 
-6-le temps de refraichissement optimal en fonction du bandwitch des capteurs/afficheur
+  - la vue par défaut est la #1 home rappelle à cette vue
+    Grandeur1 = i/o à choisir
+    Grandeur2 = i/o à choisir
+    calcul des écheles pour les axes
+    GrandeInfo1
+    GrandeInfo2
+    GrandeInfo3
+    PetiteInfo1
+    PetiteInfo2 si network alors affichage wifi et mode
+    ControlInfo1
+    ControlInfo2
+    ControlInfo3
+    ControlInfo4
+6-le temps de refraichissement optimal en fonction du bandwitch des capteurs/afficheur constante de temps.
