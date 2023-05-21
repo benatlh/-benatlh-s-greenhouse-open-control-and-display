@@ -1,4 +1,4 @@
-Sans fichier setup/config.ini le premier démarage doit configurer le system. Il se fera via le réseau.
+Sans fichier setup/config.ini le premier démarage doit configurer le system. Il se fera via le réseau. Affiche un numéro de série et configure un nom
 1-le réseau
   -démarage en AP, puis config, puis run. ! si pas de réseau message d'information pour la remise à séro
   -config service reporting mail sms (d'alerte gel temp haute) ftp sauvegarde AI bigdata
